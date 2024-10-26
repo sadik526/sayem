@@ -1,0 +1,61 @@
+Div{
+ background-color: antiquewhite;
+ padding: 10px 20px;
+margin-bottom: 20px;
+}
+.two{
+background-color: aqua;
+}
+#four{
+  background-color: greenyellow;
+}
+
+label {
+  display: block;
+}
+
+.one label{
+  display: inline-block;
+}
+
+video{width: 300px;}
+
+header{
+background-color: #00d8d6;
+}
+
+
+header{
+  background-color: #f78fb3;
+  
+  
+    background-color: #f78fb3;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    color: white;
+}
+  
+ nav{
+    background-color:#574b90;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+
+ }
+  
+    nav ul{
+      list-style: none;
+    }
+    nav ul li{
+      display: inline-block;
+    }
+    nav a {
+      color: #fff;
+    }
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  

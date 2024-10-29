@@ -1,1 +1,1 @@
-alert('external');
+// alert('last thank you for respones '); 
